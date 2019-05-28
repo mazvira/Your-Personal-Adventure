@@ -1,8 +1,8 @@
 # Your-Personal-Adventure
-Команда Your Personal Adventure 
-Кушнір Вікторія,  
-Берідзе Лія, 
-Мазуркевич Віра,
-Уткіна Олександра.
+Team of Your Personal Adventure:
+Kushnir Victoria,
+Beridze Liya,
+Mazurkevych Vira,
+Utkina Oleksandra.
 
-Your Personal Adventure - це екскурсійний Android-додаток для подорожі по різним містам, який рекомендуватиме користувачам місця для відвідування в залежності від їх геолокації, бюджету та інтересів.
+Your Personal Adventure - an excursion Android app for traveling to different cities that will be recommended for visitors to visit, depending on their geolocation, budget, and interests.
