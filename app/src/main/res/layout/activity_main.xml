@@ -50,7 +50,7 @@
         android:layout_marginEnd="84dp"
         android:layout_marginRight="84dp"
         android:layout_marginBottom="396dp"
-        android:text="HelloS"
+        android:text="HelloSasha"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
 </android.support.constraint.ConstraintLayout>
